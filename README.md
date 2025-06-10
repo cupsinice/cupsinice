@@ -10,10 +10,10 @@
     <img src="https://skillicons.dev/icons?i=cpp,js,python,c,arduino" alt="Tech Stack" />
   </div>
 
-  <!-- GitHub Stats with Pac-Man -->
+  <!-- GitHub Stats with Snake Game -->
   <h3>📊 My GitHub Activity</h3>
   <div>
-    <img src="https://raw.githubusercontent.com/cupsinice/cupsinice/main/images/pacman.svg" width="800" alt="Pac-Man eating commits" />
+    <img src="https://raw.githubusercontent.com/cupsinice/cupsinice/output/github-contribution-grid-snake.svg" width="100%" alt="Snake eating commits" />
     <br />
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=cupsinice&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cupsinice&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
