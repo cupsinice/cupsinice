@@ -1,6 +1,6 @@
 <div align="center" style="font-family: 'Courier New', monospace;">
   <!-- Animated Typing Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Keyser+Söze;Web+Developer;Embedded+Hobbyist;From+The+Usual+Suspects" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Keyser+Soze;Web+Developer;Embedded+Hobbyist;From+The+Usual+Suspects" alt="Typing Animation" />
   
   <br />
   
